@@ -1,0 +1,4 @@
+﻿  Lab1withmarinok.cpp
+C:\Users\asus\source\repos\Lab1withmarinok\Lab1withmarinok.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\Lab1withmarinok\Lab1withmarinok.cpp(125,12): warning C4930: Atbash empty_line(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Lab1withmarinok.vcxproj -> C:\Users\asus\source\repos\Lab1withmarinok\Debug\Lab1withmarinok.exe
